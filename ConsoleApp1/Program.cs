@@ -4,5 +4,6 @@ using ConsoleApp1;
 Console.WriteLine("Hello, Universe!");
 Console.WriteLine(ReturnHello.GetHello(Environment.UserName));
 Console.WriteLine("Tjall på linjen...");
+Console.ReadLine();
 
 //lknlklk
