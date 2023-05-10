@@ -3,9 +3,3 @@ using ConsoleApp1;
 
 Console.WriteLine("Hello, Universe!");
 Console.WriteLine(ReturnHello.GetHello(Environment.UserName));
-
-
-
-
-
-//lknlklk
