@@ -1,8 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using ConsoleApp1;
+
 Console.WriteLine("Hello, Universe!");
-
-
-
-
-
-//lknlklk
+Console.WriteLine(ReturnHello.GetHello(Environment.UserName));
